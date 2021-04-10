@@ -29,3 +29,7 @@ the project will be deployed on port 3000 by default
 - MetaMask
 - Webpack
 - Styled Components
+- Heroku
+
+## Deployed
+https://compound-dashboard.herokuapp.com/
