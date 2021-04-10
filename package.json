@@ -8,7 +8,7 @@
     "truffle-migrate": "truffle migrate --reset",
     "dev": "npx webpack serve --config webpack.config.js --mode development",
     "build": "npx webpack --config webpack.config.js --mode production",
-    "start": "node server.js"
+    "node:start": "npm run build && node server.js"
   },
   "keywords": [],
   "author": "Luis Castillo",
