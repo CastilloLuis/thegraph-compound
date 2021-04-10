@@ -3,7 +3,7 @@ Dashboard with Compound + TheGraph protocol.
 
 ## Installation
 
-After cloning the project, you need to install depencies with one of the following commands
+After cloning the project, you need to install dependencies using one of the following commands
 
 ```
 npm install
